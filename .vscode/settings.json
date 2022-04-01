@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "liveSassCompile.settings.generateMap": false,
+    "LiveSassCompile.settings.formats": [
+        {
+            "format": "expaded",
+            "autoprefix": "last 5 versions",
+            "extensionName": "css",
+            "savePath": "css"
+        }
+    ],
+}
